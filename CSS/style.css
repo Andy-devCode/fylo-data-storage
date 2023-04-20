@@ -14,7 +14,7 @@
 }
 body{
     background-color: var(--VeryDarkBlue);
-    background-image: url(/assets/bg-mobile.png);
+    background-image: url(https://andy-devcode.github.io/fylo-data-storage/assets/bg-mobile.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

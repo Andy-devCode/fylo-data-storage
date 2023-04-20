@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Andy-devCode/fylo-data-storage
+- Live Site URL: https://andy-devcode.github.io/fylo-data-storage
 
 ## My process
 
@@ -36,6 +36,4 @@ Users should be able to:
 - Mobile-first workflow
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Andy-devCode](https://www.frontendmentor.io/profile/Andy-devCode)

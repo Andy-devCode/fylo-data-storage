@@ -1,6 +1,5 @@
 body{
     background-image: url();
-
 }
 main{
     grid-template-columns: auto auto;
@@ -27,13 +26,7 @@ main{
     width: 30%;
     left: calc(55%);
     border-radius:10px 10px 0 10px ;
-    top: -45px; 
-    gap: 20px;   
-}
-.first-text .first-text--3{
-    position: absolute;
-    right: -7px;
-    bottom: 8px;
+    top: -45px;   
 }
 .triangle{
     position: absolute;

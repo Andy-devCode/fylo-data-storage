@@ -9,6 +9,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
     font-size: 14px;
 }
 body{
@@ -80,6 +81,7 @@ main{
 }
 .storage-used>h3{
     color: var(--GrayishBlue);
+    font-weight: 400;
 }
 .storage-used>h3 span{
     color: var(--PaleBlue);
@@ -115,9 +117,10 @@ main{
 .progress-bar .ball{
     display: inline-block;
     height: 65%;
-    width: 10px;
+    width: 8px;
     background-color: var(--PaleBlue);
     border-radius: 50px;
+    margin-right: 2.3px;
 }
 .storage-used--bar .under-text{
     width: 70%;
@@ -141,28 +144,11 @@ main{
     left: calc(50% - 22%);
     color: var(--GrayishBlue);
 }
-.storage-left .first-text{
-    display: flex;
-    align-content: center;
-    height: 55%;
-    width: 13%;
-    position: relative;
-}
-.first-text p{
+.first-text {
     font-size: 26px;
     font-weight: bold;
     color: var(--VeryDarkBlue);
 }
-.first-text .first-text--1{
-    position: absolute;
-    left: -12px;
-}
-.first-text .first-text--2{
-    position: absolute;
-    top: -1.3px;
-}
-.first-text .first-text--3{
-    position: absolute;
-    right: -8px;
-    bottom: 1px;
+.second-text{
+    font-size: 10px;
 }

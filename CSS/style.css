@@ -14,7 +14,7 @@
 }
 body{
     background-color: var(--VeryDarkBlue);
-    background-image: url(/assets/bg-mobile.png);
+    background-image: url(https://andy-devcode.github.io/fylo-data-storage/assets/bg-mobile.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -80,11 +80,11 @@ main{
     position: relative;
 }
 .storage-used>h3{
-    color: var(--GrayishBlue);
+    color: var(--PaleBlue);
     font-weight: 400;
 }
 .storage-used>h3 span{
-    color: var(--PaleBlue);
+    color: #fff;
 }
 .storage-used .storage-used--bar{
     display: flex;

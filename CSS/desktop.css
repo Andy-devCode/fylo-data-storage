@@ -43,7 +43,7 @@ main>span{
     width: 100vw;
     height: 50vh;
     position: absolute;
-    background-image: url(/assets/bg-desktop.png);
+    background-image: url(https://andy-devcode.github.io/fylo-data-storage/assets/bg-desktop.png);
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;

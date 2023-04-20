@@ -1,0 +1,57 @@
+body{
+    background-image: url();
+
+}
+main{
+    grid-template-columns: auto auto;
+    grid-template-rows: auto;
+    align-items: end;
+    gap: 30px;
+}
+.storage{
+    height: 190px;
+}
+.storage-used{
+    min-width: 500px;
+    max-width: 520px;
+    height: 150px;
+    gap: 20px;
+}
+.storage-used>h3{
+    justify-self: center;
+    width: 70%;
+    margin: 0 auto;
+    text-align: left;
+}
+.storage-left{
+    width: 30%;
+    left: calc(55%);
+    border-radius:10px 10px 0 10px ;
+    top: -45px; 
+    gap: 20px;   
+}
+.first-text .first-text--3{
+    position: absolute;
+    right: -7px;
+    bottom: 8px;
+}
+.triangle{
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    border-right: 20px solid #fff ;
+    border-top: 20px solid #fff ;
+    bottom: -25px;
+    right: 0px;
+}
+main>span{
+    width: 100vw;
+    height: 50vh;
+    position: absolute;
+    background-image: url(/assets/bg-desktop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+}
